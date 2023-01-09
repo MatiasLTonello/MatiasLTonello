@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on GM2<br>🌱 I’m currently learning ReactJS, TypeScript and NodeJs<br>⚡ I love programming
+🔭 I'm currently working at GM2<br>🌱 I’m currently learning ReactJS, TypeScript and NodeJs<br>⚡ I love programming
 
 
 ## 🌐 Socials:
