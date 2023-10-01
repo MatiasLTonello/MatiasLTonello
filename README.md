@@ -1,5 +1,5 @@
 # 👨‍💻About Me:
-👨 I'm working at GM2<br>🎓I’m currently learning ReactJS, NextJS, TypeScript, NodeJS and NestJS<br>⚡ I love programming
+👨 I'm working at GM2<br>🎓I’m currently working with ReactJS, NextJS, TypeScript, NodeJS, NestJS, C#, ASP.NET Core<br>⚡ I love programming
 
 
 ## 🌐 Socials:
